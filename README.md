@@ -1,2 +1,2 @@
-# Genze-e101-E-Bike-Battery-and-BMS-Rebuild
-My goal with this project is to safely examine, remove, rebuild, test and implement a new electric bike battery and BMS system from scratch using brand new components and my own tools. 
+# Paramount-Series-50-Ebike-Conversion
+My goal with this project is to design and build a safe, middle of the road electric bike using an older Paramount Series 50 mountain bike frame. I will do this by building my own custom 13S5P battery and use this to power a compatable hub motor on the back wheel of the Paramount.
