@@ -16,7 +16,8 @@ My goal with this project is to design and build a safe, middle of the road elec
 
 
 <img width="3024" height="4032" alt="IMG_5564" src="https://github.com/user-attachments/assets/766d0c4f-565c-4d4b-8341-a2e718c055b3" />
- 
+<img width="435" height="617" alt="Screenshot 2026-07-14 at 8 56 33 AM" src="https://github.com/user-attachments/assets/490d54d0-c4e6-4959-8247-36e8224ea907" />
+
   
  
 
